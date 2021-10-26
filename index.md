@@ -1,6 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to Ximo Sun's Pages
 
-You can use the [editor on GitHub](https://github.com/SeemoSun/Seemo.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I am an senior undergraduate in Physics Department from Tsinghua University. 
+
+My research interests include, Atomic Physics, Quantum Optics, Ion trap Quantum Computation. Specific works are mentioned in details below at the Reseach Experience Part.
+
+I use [Reading Notes](https://seemosun.github.io/readingnotes.github.io/) pages to update the my paper scientific reading notes, feel free to contact my by [emails](sxm18@mails.tsinghua.edu.cn) if you have any questions.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
